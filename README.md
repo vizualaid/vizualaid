@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Subhadeep Mandal.I am a Btech Hons. student of Computer Science & Engineering working on several Games, Apps, and other personal projects.
-I create my own assets with Blender, Photoshop, Audacity, etc for my games.
-I enjoy Coding, Debugging, Problem-solving, Learning foreign languages and cultures.
+I'm Isha Kunwar a B. Tech  in Computer Science & Engineering student, Interested in coding and computer graphics know Photoshop, Illustrator, Adobe XD etc. I like Coding, designing, Problem-solving, traditional painting and Reading.
 
 ## &#x270d; 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚
-English>Bengali>Japanese>Hindi
+Hindi>English>Kumaouni
 (𝘐 𝘢𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘢 𝘑𝘓𝘗𝘛 𝘕2 𝘭𝘦𝘷𝘦𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘑𝘢𝘱𝘢𝘯𝘦𝘴𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦)
 
 ## 🔧 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
-- Latex, Blender, Photoshop, Unity
-- C#, C, CPP, Python
-- HTML,CSS,JS,PHP,MySQL,SQL
-- Linux, Shell Scripting
+- Photoshop, Illustrator
+- C++, C, Python
+- HTML, CSS, JS, MySQL, SQL
+
 
 ## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
 Java, NLTK,Speech recognition,Pytorch, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
