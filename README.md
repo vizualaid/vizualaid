@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+<!-- ![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png) -->
 
 # Hello folks!👋
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- - 🐾 Exploring every nooks and cranny of the Supply Chain Domain; it's quite interesting in terms of problem solving -->
 <!-- - 🧮 Gaining developmental experience on Microservices and Spring -->
 - 🔭 A Computer Science and Engineering student with a passion for coding and design.
-- 😄 Technical skills
+- 😄 Technical skills C++, Kotlin, Html/CSS. JavaScript, Dart, Angular.
 - 🧮 Additionally skilled in using tools such as Photoshop, Illustrator, and Adobe XD.
 - 🌱 I’m currently learning React JS And Flutter.
 - 👯 I’m looking to collaborate and work on new Open Source projects.
@@ -37,40 +37,35 @@ Here are some ideas to get you started:
 - C++, C, Python
 - HTML, CSS, JS, MySQL, SQL -->
 
-<!-- 
-## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
-Java, NLTK,Speech recognition,Pytorch, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
- -->
-<!-- ## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
-I have created Crazy Ball Maze and the UwUCalculator available on google playstore.
-I have created several Encoders and Decoders to send secret messages.
-I have created a CSV file creator and numerous small projects that make my programming tasks easier.
- -->
-<!-- ## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
-When I am not in front of a computer I like to Sketch, play Piano or listen to music.
-I also love watching anime and playing video games. -->
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/vizualaid/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrasubha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+#### :octocat:  My Github Stats
+
+<p align="center">
+<a href="https://github.com/vizualaid">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vizualaid&theme=algolia#version3" />
 </a>
-<a href="https://github.com/vizualaid/vizualaid/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultrasubha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isha's GitHub Stats" />
-</a>
-<a href="https://github.com/vizualaid/vizualaid/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=MyCodes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Ultrasubha/Ultrasubha">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=winter-of-contributing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</p>
+
+<p align="center" display="flex" >
+  <a href="https://github.com/vizualaid">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizualaid&hide=html,scss,cmake,c,shift,shell,swift,objective-c&&show_icons=true&theme=algolia&langs_count=10)" />
+     </a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vizualaid&hide=html,scss,cmake,c,shift,shell,swift,objective-c&&show_icons=true&theme=algolia&langs_count=10) -->
+</p>
+<p align="center">
+  <a href="https://github.com/vizualaid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vizualaid&show_icons=true&theme=algolia" />
+  </a>
+</p>
 
 ## 🔗 &nbsp;**Connect with me**
 
-<a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Ultrasubha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15030983/enraged-falcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15030983/enraged-falcon" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subhadeep-mandal-18112068/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ultrasubha" height="30" width="40" /></a>
-<a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ultrasubha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/vizualaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vizualaid" height="30" width="40" /></a> -->
+<!-- <a href="https://stackoverflow.com/users/15030983/enraged-falcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15030983/enraged-falcon" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/ishakunwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vizualaid" height="30" width="40" /></a>
+<a href="https://twitter.com/ishakunwar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vizualaid" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ishakunwarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vizualaid" height="30" width="40" /></a>
  
 <p align="center"><img src="./bye.gif" width="200px"/></p>
 
@@ -95,12 +90,12 @@ Dev
 <a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Ultrasubha" height="30" width="40" /></a>
 -->
 <samp>
-<p align="center">
+<!-- <p align="center">
   <h1 align="center">Hey there! 👋  </h1>
 </p>
+ -->
 
-
-<p align="center">
+<!-- <p align="center">
   <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
@@ -109,9 +104,9 @@ Dev
 <p align="center">
   <img src="assets/Banner.png" alt="Banner"/>
 </p>
+ -->
 
-
-<br>
+<!-- <br>
 
 - 🔭 Currently working on Spring Framework; prior to this, I professionally was working on MERN Stack
 - 🐾 Exploring every nooks and cranny of the Supply Chain Domain; it's quite interesting in terms of problem solving
@@ -120,12 +115,12 @@ Dev
 - 👯 I’m looking to collaborate and work on new Open Source projects
 - 📫 How to reach me: shravan@ohmyscript.com
 - ⚡ Fun fact: Brain is forever a nerd
-
-<p align="center">
+ -->
+<!-- <p align="center">
   <a title="Portfolio" href="https://ohmyscript.com/">
     <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
-  </a>
-  
+  </a> -->
+<!--   
   <a title="DEV.to" href="https://dev.to/imshravan">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
   </a>
@@ -136,30 +131,30 @@ Dev
  
   <a title="LinkedIn" href="https://www.linkedin.com/in/shravankb/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
-  </a>
-  
+  </a> -->
+<!--   
   <a title="Email" href="mailto:shravan@ohmyscript.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
-  </a>
+  </a> -->
   
-  <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
+<!--   <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
   </a>
   
   <a title="Twitter" href="https://twitter.com/imshravankb">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
-</p>
+</p> -->
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/shravan20" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
-  </a>
+<!--   </a>
+ -->
 
-
-  <a href="https://twitter.com/imshravankb" target="_blank">
+<!--   <a href="https://twitter.com/imshravankb" target="_blank">
     <img src="https://img.shields.io/twitter/follow/imshravankb?style=social"/>
   </a>
 
@@ -170,181 +165,11 @@ Dev
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
 </p>
+ --> 
+
+<p align="center"> <img src="https://gpvc.arturio.dev/vizualaid" alt="profile-views"> </p>
 
 
-<p align="center"> <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views"> </p>
-
-
-
-<br>
-
----
-
-
-#### 💌 Subscribe to My Weekly Technical Newsletter
-
-
-<p align="center">
-<a href="https://tinyletter.com/ohmyscript" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" style="border-radius:10px;"></a>
-</p>
-
----
-
-#### ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
-
-<table style="width:100%">
- <tr>
-    <th>Programming Languages</th>
-    <td> 
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-      <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
-      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />      
-   </td>
-  </tr>
-  <tr>
-    <th>Frameworks</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
-    </td>
-  </tr>
-  <tr>
-    <th>Databases</th>
-    <td>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Hosting/SaaS/PaaS</th>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Automate, Deploy, Platform & Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-    </td>
-  </tr>
-  <tr>
-    <th>Testing</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
-      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Operating Systems</th>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/mac%20os-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Markup/Markdown</th>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    </td>
-  </tr>
-  <tr>
-    <th>Others</th>
-    <td>
-      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-    </td>
-  </tr>
-  
-</table>
-
-
-<p align="center">
-  <img src="assets/header.png" alt="header"/>
-</p>
-
-
----
-
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
-```javascript
-console.log(`Feel free to contribute`);
-```
-
-<span>
-<p align="center">
-  <a href="https://github.com/shravan20/LearningResources">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=algolia" />
-  </a>
-
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
-  </a>  
-</p>
-</span>
-<span>
-<p align="center">
-   <a href="https://github.com/shravan20/software-installation-guides">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
-  </a>
-</p>
-</span>
-<br>
-
-
----
-
-#### :octocat:  My Github Stats
-
-<p align="center">
-  <a href="https://github.com/shravan20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/shravan20">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia#version3" />
-</a>
-</p>
-
-
----
-
-#### :lotus_position_man: My Thoughts
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
-</p>
-
-
----
-
-<p align="center">
-  <h5 align="center"> Staying Motivated </h5>
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/dexplorer" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
-</p>
-
----
+ 
 
 </samp>
