@@ -15,38 +15,49 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-I'm Isha Kunwar a B. Tech  in Computer Science & Engineering student, Interested in coding and computer graphics know Photoshop, Illustrator, Adobe XD etc. I like Coding, designing, Problem-solving, traditional painting and Reading.
+<!-- I'm Isha Kunwar a B. Tech  in Computer Science & Engineering student, Interested in coding and computer graphics know Photoshop, Illustrator, Adobe XD etc. I like Coding, designing, Problem-solving, traditional painting and Reading. -->
 
-## &#x270d; 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚
-Hindi>English>Kumaouni
-(𝘐 𝘢𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘢 𝘑𝘓𝘗𝘛 𝘕2 𝘭𝘦𝘷𝘦𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘑𝘢𝘱𝘢𝘯𝘦𝘴𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦)
+<br>
 
+<!-- - 🔭 Currently working on Spring Framework; prior to this, I professionally was working on MERN Stack -->
+<!-- - 🐾 Exploring every nooks and cranny of the Supply Chain Domain; it's quite interesting in terms of problem solving -->
+<!-- - 🧮 Gaining developmental experience on Microservices and Spring -->
+- 🔭 A Computer Science and Engineering student with a passion for coding and design.
+- 😄 Technical skills
+- 🧮 Additionally skilled in using tools such as Photoshop, Illustrator, and Adobe XD.
+- 🌱 I’m currently learning React JS And Flutter.
+- 👯 I’m looking to collaborate and work on new Open Source projects.
+- 📫 How to reach me: kunwarisha9@gmail.com
+- ⚡ Fun fact: Never getting lost, Have my GPS... Google, Pinterest, and Stackoverflow.
+<!-- ## &#x270d; 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 -->
+<!-- Hindi . English . Kumaouni -->
+<!-- 
 ## 🔧 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
 - Photoshop, Illustrator
 - C++, C, Python
-- HTML, CSS, JS, MySQL, SQL
+- HTML, CSS, JS, MySQL, SQL -->
 
-
+<!-- 
 ## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
 Java, NLTK,Speech recognition,Pytorch, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
-
-## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
+ -->
+<!-- ## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 I have created Crazy Ball Maze and the UwUCalculator available on google playstore.
 I have created several Encoders and Decoders to send secret messages.
 I have created a CSV file creator and numerous small projects that make my programming tasks easier.
-
-## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
+ -->
+<!-- ## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
 When I am not in front of a computer I like to Sketch, play Piano or listen to music.
-I also love watching anime and playing video games.
+I also love watching anime and playing video games. -->
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Ultrasubha/Ultrasubha">
+<a href="https://github.com/vizualaid/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrasubha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/Ultrasubha/Ultrasubha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultrasubha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ultrasubha's GitHub Stats" />
+<a href="https://github.com/vizualaid/vizualaid/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultrasubha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isha's GitHub Stats" />
 </a>
-<a href="https://github.com/Ultrasubha/Ultrasubha">
+<a href="https://github.com/vizualaid/vizualaid/">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=MyCodes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Ultrasubha/Ultrasubha">
