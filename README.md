@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 <!-- - 🐾 Exploring every nooks and cranny of the Supply Chain Domain; it's quite interesting in terms of problem solving -->
 <!-- - 🧮 Gaining developmental experience on Microservices and Spring -->
 - 🔭 A Computer Science and Engineering student with a passion for coding and design.
-- 😄 Technical skills C++, Kotlin, Html/CSS. JavaScript, Dart, Angular.
-- 🧮 Additionally skilled in using tools such as Photoshop, Illustrator, and Adobe XD.
+- 😄 Technical skills C++, Html / CSS, JavaScript, React Js, NodeJS, Android App development with Kotlin.
+- 📫 How to reach me: kunwarisha9@gmail.com
+<!--- 🧮 Additionally skilled in using tools such as Photoshop, Illustrator, and Adobe XD.
 - 🌱 I’m currently learning React JS And Flutter.
 - 👯 I’m looking to collaborate and work on new Open Source projects.
-- 📫 How to reach me: kunwarisha9@gmail.com
+
 - ⚡ Fun fact: Never getting lost, Have my GPS... Google, Pinterest, and Stackoverflow.
-<!-- ## &#x270d; 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 -->
+ ## &#x270d; 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 -->
 <!-- Hindi . English . Kumaouni -->
 <!-- 
 ## 🔧 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
@@ -39,8 +40,6 @@ Here are some ideas to get you started:
 
 
 
-#### :octocat:  My Github Stats
-
 <p align="center">
 <a href="https://github.com/vizualaid">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vizualaid&theme=algolia#version3" />
@@ -48,15 +47,15 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" display="flex" >
-  <a href="https://github.com/vizualaid">
+<!--   <a href="https://github.com/vizualaid">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizualaid&hide=html,scss,cmake,c,shift,shell,swift,objective-c&&show_icons=true&theme=algolia&langs_count=10)" />
-     </a>
+     </a> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vizualaid&hide=html,scss,cmake,c,shift,shell,swift,objective-c&&show_icons=true&theme=algolia&langs_count=10) -->
 </p>
 <p align="center">
-  <a href="https://github.com/vizualaid">
+<!--   <a href="https://github.com/vizualaid">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vizualaid&show_icons=true&theme=algolia" />
-  </a>
+  </a> -->
 </p>
 
 ## 🔗 &nbsp;**Connect with me**
@@ -164,10 +163,10 @@ Dev
     <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
-</p>
+</p><p align="center"> <img src="https://gpvc.arturio.dev/vizualaid" alt="profile-views"> </p>
  --> 
 
-<p align="center"> <img src="https://gpvc.arturio.dev/vizualaid" alt="profile-views"> </p>
+
 
 
  
